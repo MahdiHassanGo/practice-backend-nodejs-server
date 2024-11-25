@@ -1,0 +1,68 @@
+[
+    {
+      "id": 1,
+      "name": "iPhone 14 Pro",
+      "brand": "Apple",
+      "price": 999,
+      "specifications": {
+        "display": "6.1-inch Super Retina XDR",
+        "processor": "A16 Bionic chip",
+        "camera": "48 MP main, 12 MP ultra-wide, 12 MP telephoto",
+        "battery": "3200 mAh",
+        "os": "iOS 17"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S23 Ultra",
+      "brand": "Samsung",
+      "price": 1199,
+      "specifications": {
+        "display": "6.8-inch Dynamic AMOLED 2X",
+        "processor": "Snapdragon 8 Gen 2",
+        "camera": "200 MP main, 12 MP ultra-wide, 10 MP telephoto",
+        "battery": "5000 mAh",
+        "os": "Android 13"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Google Pixel 8 Pro",
+      "brand": "Google",
+      "price": 899,
+      "specifications": {
+        "display": "6.7-inch LTPO OLED",
+        "processor": "Google Tensor G3",
+        "camera": "50 MP main, 48 MP ultra-wide, 48 MP telephoto",
+        "battery": "5050 mAh",
+        "os": "Android 14"
+      }
+    },
+    {
+      "id": 4,
+      "name": "OnePlus 11",
+      "brand": "OnePlus",
+      "price": 699,
+      "specifications": {
+        "display": "6.7-inch Fluid AMOLED",
+        "processor": "Snapdragon 8 Gen 2",
+        "camera": "50 MP main, 48 MP ultra-wide, 32 MP telephoto",
+        "battery": "5000 mAh",
+        "os": "Android 13"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Xiaomi 13 Pro",
+      "brand": "Xiaomi",
+      "price": 799,
+      "specifications": {
+        "display": "6.73-inch AMOLED",
+        "processor": "Snapdragon 8 Gen 2",
+        "camera": "50 MP main, 50 MP ultra-wide, 50 MP telephoto",
+        "battery": "4820 mAh",
+        "os": "Android 13"
+      }
+    }
+  ]
+  
